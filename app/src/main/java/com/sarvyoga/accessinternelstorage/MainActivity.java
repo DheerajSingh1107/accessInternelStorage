@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mEditText=findViewById(R.id.edit_text);
+        // this is just a test for github
 
     }
 
