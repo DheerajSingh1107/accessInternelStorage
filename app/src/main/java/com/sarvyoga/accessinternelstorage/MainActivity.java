@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         mEditText=findViewById(R.id.edit_text);
         // this is just a test for github
+        //trying again
 
     }
 
